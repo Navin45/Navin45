@@ -1,4 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/58559694/aeae5400-6102-11e9-980d-dc74185ed41d)
 <h1 align="center">Hi 👋, I'm Navin Singh</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **navinsingh04523@gmail.com**
 
-- ⚡ Fun fact ** I ThinK I Am Funny !**
+- ⚡ Fun fact ** I ThinK I Am Funny ! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
