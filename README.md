@@ -1,7 +1,7 @@
-[![MasterHead](https://media.istockphoto.com/id/1365534802/photo/artificial-intelligence-in-healthcare-new-ai-applications-in-medicine.jpg?b=1&s=170667a&w=0&k=20&c=eF-CGfuqSOwnbAeptvuK8qcdNE3-_RHIYk_II2T8g9Y=)
+[![MasterHead](https://repository-images.githubusercontent.com/58559694/aeae5400-6102-11e9-980d-dc74185ed41d)
 <h1 align="center">Hi 👋, I'm Navin Singh</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://web.archive.org/web/20230101130849/https://komarev.com/ghpvc/?username=navin45&label=Profile%20views&color=0e75b6&style=flat" alt="navin45" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **navinsingh04523@gmail.com**
 
-- ⚡ Fun fact **I ThinK I Am Funny !**
+- ⚡ Fun fact ** I ThinK I Am Funny !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
