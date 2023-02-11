@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C, C++, DSA**
-
+- ⚡️ Fun fact ** I Think I Am Funny **
 - 📫 How to reach me **navinsingh04523@gmail.com**  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
