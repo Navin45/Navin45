@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently learning **java**
-- 💬 Ask me about **java, DSA**
+- 💬 Ask me about **Spring boot**
 - ⚡ Fun fact: **I think I’m funny**
 - 📫 Reach me at **navinsingh04523@gmail.com**
 
