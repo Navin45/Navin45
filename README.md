@@ -10,26 +10,31 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **java**
-- 💬 Ask me about **Spring boot**
+- 🌱 I’m currently learning **Agentic AI**
+- 💬 Ask me about **Generative AI**
 - ⚡ Fun fact: **I think I’m funny**
 - 📫 Reach me at **navinsingh04523@gmail.com**
+
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://navinportfolio-gold.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://x.com/Navin_Rajput45" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X (Twitter)" height="30" width="30" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.linkedin.com/in/navin-singh/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/__navin_23/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
 </p>
+
+
 
 ---
 
