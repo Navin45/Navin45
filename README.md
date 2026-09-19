@@ -101,4 +101,3 @@
 
 ---
 
-<p align="center">📩 <b>Open to freelance & contract work</b> — RAG systems, LLM fine-tuning, agentic AI, and production-grade AI integrations. Let's talk: <b>navinsingh04523@gmail.com</b></p>
