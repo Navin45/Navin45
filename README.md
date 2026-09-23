@@ -4,7 +4,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=navin45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=flat" alt="Open to Freelance Work" />
 </p>
 
 <p align="left">
